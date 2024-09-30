@@ -9,7 +9,6 @@ A full-stack e-commerce website using the MERN stack (MongoDB, Express.js, React
 - Product Listings
 - User Authentication
 - Shopping Cart
-- 
 - Order Management
 - Admin Dashboard
 
